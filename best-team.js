@@ -16,6 +16,6 @@ function bestTeam(player1, player2) {
     return "Tie";
   }
 }
-console.log(
-  bestTeam({ name: "Germany", foul: 10, cardY: 1, cardR: 1 }, "France")
-);
+// console.log(
+//   bestTeam({ name: "Germany", foul: 10, cardY: 1, cardR: 1 }, "France")
+// );
