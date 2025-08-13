@@ -31,4 +31,4 @@ function resultReport(marks) {
   return results;
 }
 
-console.log(resultReport([]));
+// console.log(resultReport([]));
