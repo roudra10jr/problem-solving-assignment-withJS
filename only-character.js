@@ -13,4 +13,4 @@ function onlyCharacter(str) {
   }
   return modifyStr;
 }
-console.log(onlyCharacter(" ha ck m e 1 @ru.c  n  "));
+// console.log(onlyCharacter(" ha ck m e 1 @ru.c  n  "));
